@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
-  title: "Todo App",
+  title: "SQL Crud App",
   home: Home(),
 ));
 
